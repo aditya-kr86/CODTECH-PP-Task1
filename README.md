@@ -7,7 +7,7 @@
 - **Intern ID:** CT6WDS2357  
 - **Domain:** Python Programming  
 - **Duration:** NOV 15th, 2024 to DEC 30th, 2024  
-- **Mentor:** N.santhosh
+- **Mentor:** Neela Santhosh Kumar
 
 ---
 
