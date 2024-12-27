@@ -1,51 +1,62 @@
 # CODTECH-PP-Task1
-# Calculator Application
+# Simple Calculator Project
 
-A simple GUI-based calculator application built using Python's `tkinter` library. This project allows users to perform basic arithmetic operations with a clean and user-friendly interface.
+## Internship Details  
+- **Name:** Aditya Kumar  
+- **Company:** CODTECH IT SOLUTIONS  
+- **Intern ID:** CT6WDS2357  
+- **Domain:** Python Programming  
+- **Duration:** NOV 15th, 2024 to DEC 30th, 2024  
+- **Mentor:** N.santhosh
 
-## Features
+---
 
-- **Basic Arithmetic**: Addition, subtraction, multiplication, and division.
-- **Utility Operations**: Percentage calculation, clear (AC), and backspace (←).
-- **Keyboard Support**: Use the keyboard for numeric input and operations.
-- **Error Handling**: Displays "Error" for invalid calculations.
+## About the Task  
+This project is a **Simple Calculator** developed using Python's `Tkinter` library as part of my internship at CODTECH IT SOLUTIONS. The calculator is designed to perform basic arithmetic operations and features a user-friendly graphical interface for easy use.
 
-## Installation
+---
 
-1. Clone this repository:
+## Features  
+- **Basic Operations:** Perform addition, subtraction, multiplication, and division.  
+- **Advanced Functions:** Includes percentage calculation, clear (`AC`), and backspace (`←`) functionality.  
+- **Error Handling:** Displays "Error" for invalid operations (e.g., division by zero).  
+- **Keyboard Support:** Users can operate the calculator using keyboard inputs in addition to button clicks.  
+- **Graphical Interface:** Intuitive and clean interface created with `Tkinter`.  
+- **Safe Design:** The display is read-only, preventing accidental edits and ensuring reliability.
+
+---
+
+## Highlights  
+1. **User-Friendly GUI:** Designed with a responsive button grid for smooth interaction.  
+2. **Keyboard Integration:** Enhances usability by allowing input via both GUI buttons and keyboard keys.  
+3. **Error-Free Calculations:** Robust handling of invalid inputs to maintain a seamless user experience.  
+4. **Minimalistic Design:** The calculator is lightweight, easy to use, and quick to load.  
+
+---
+
+## How to Run  
+1. Clone the repository to your local system.  
    ```bash
-   git clone https://github.com/aditya-kr86/calculator-app.git\
+   git clone https://github.com/aditya-kr86/CODTECH-PP-Task1.git
+   cd CODTECH-PP-Task1
    ```
-2. Navigate to the project directory:
-   ```bash
-   cd calculator-app
-   ```
-3. Run the script:
+2. Ensure Python is installed on your system.  
+3. Run the Python script to launch the calculator:  
    ```bash
    python calculator.py
    ```
-## Usage
-- Button Input: Click the buttons on the interface for input.
-- Keyboard Input: Type numbers and operators directly using the keyboard. Press Enter for "=" and Backspace for "←".
-- Clear Screen: Use the "AC" button to clear the input screen.
-Project Structure
-calculator.py: The main Python script containing the calculator application code.
-Screenshot
-(Add a screenshot of your calculator interface here.)
-
-## Contributing
-Feel free to fork the repository and submit pull requests for improvements or new features.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
----
-
-## 📜 License
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 ---
 
-## 🧑‍💻 Author
-- **Aditya Kumar**  
-  - [GitHub](https://github.com/aditya-kr86)  
-  - [Email](mailto:adityakumargupta082003@gmail.com)  
+## Screenshots  
+![image](https://github.com/user-attachments/assets/8d70e82a-2d96-4d9d-b159-5399ce9d38ca)
+![image](https://github.com/user-attachments/assets/c1f6baf1-81a1-4609-b17d-dffea579b778)
+
+
+---
+
+### Thank you for reviewing my submission!  
+
+Feel free to suggest any improvements or provide feedback. 😊  
+
+---
